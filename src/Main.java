@@ -10,7 +10,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int valueSum = scanner.nextInt();
 
-        System.out.println("Выберите нужную валюту:");
+        System.out.println("Выберите нужную валюту: ");
         System.out.println("1. USD");
         System.out.println("2. EUR");
         int choiceType = scanner.nextByte();
